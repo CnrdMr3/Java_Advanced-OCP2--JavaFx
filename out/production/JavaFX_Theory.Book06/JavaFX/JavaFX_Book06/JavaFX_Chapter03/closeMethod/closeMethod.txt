@@ -1,0 +1,5 @@
+/*
+    For more information about the close method,
+    see the section  - “Exit, Stage Right” -
+    later in this chapter.
+*/
