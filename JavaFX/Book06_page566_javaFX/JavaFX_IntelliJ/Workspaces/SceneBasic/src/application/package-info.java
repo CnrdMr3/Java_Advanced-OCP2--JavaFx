@@ -1,8 +1,0 @@
-/**
- * 
- */
-/**
- * @author ConradMaré
- *
- */
-package application;
