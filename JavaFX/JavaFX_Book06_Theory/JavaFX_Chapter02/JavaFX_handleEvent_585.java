@@ -1,4 +1,4 @@
-package JavaFX.JavaFX_Book06.JavaFX_Chapter02;
+package JavaFX.JavaFX_Book06_Theory.JavaFX_Chapter02;
 
 public class JavaFX_handleEvent_585 {
     /*

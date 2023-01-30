@@ -1,4 +1,4 @@
-package JavaFX.JavaFX_Book06.JavaFX_Chapter03.stageClass;
+package JavaFX.JavaFX_Book06_Theory.JavaFX_Chapter03.stageClass;
 
 public class StageClass_page604 {
     /*

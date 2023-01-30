@@ -1,4 +1,4 @@
-package JavaFX.JavaFX_Book06.JavaFX_Chapter03.setResisizable;
+package JavaFX.JavaFX_Book06_Theory.JavaFX_Chapter03.setResisizable;
 
 public class setResizable_page606 {
 	// If you want to prevent the user from resizing the stage, use the 'setResizable' method like this:
