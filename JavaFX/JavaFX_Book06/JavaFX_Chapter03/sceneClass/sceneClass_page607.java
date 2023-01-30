@@ -1,4 +1,4 @@
-package JavaFX.JavaFX_Book06.JavaFX_Chapter03;
+package JavaFX.JavaFX_Book06.JavaFX_Chapter03.sceneClass;
 
 public class sceneClass_page607 {
 	/*
